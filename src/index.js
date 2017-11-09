@@ -39,8 +39,6 @@ const Envelope = ({toPerson, fromPerson}) => {
 };
 
 
-
-
 //declare AddressLabel as a arrow-function component, with destructed prop of object type
 const AddressLabel =({person}) => {
 	// declare local variables
